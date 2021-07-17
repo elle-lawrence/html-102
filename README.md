@@ -2,3 +2,5 @@
 ## features
 -added navbar
 -added cards
+-added flexbox
+-added pages: Javascript, CSS, HTML
